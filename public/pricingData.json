@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Plan",
+    "price": 19,
+    "description": "Ideal for beginners starting their fitness journey.",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free WiFi",
+      "1 fitness assessment",
+      "Basic workout guidance",
+      "Access during regular hours"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Basic Plan",
+    "price": 29,
+    "description": "Perfect for people who want consistent workouts.",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free WiFi",
+      "2 fitness assessments",
+      "Basic workout plan",
+      "Access to cardio machines",
+      "Regular gym hours access"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Standard Plan",
+    "price": 45,
+    "description": "Great for regular gym users who want more support.",
+    "features": [
+      "All Basic Plan features",
+      "Group fitness classes",
+      "2 personal training sessions",
+      "Nutrition consultation",
+      "Progress tracking",
+      "Access to stretching zone",
+      "Extended gym hours"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Advanced Plan",
+    "price": 59,
+    "description": "For serious fitness enthusiasts who want extra training.",
+    "features": [
+      "All Standard Plan features",
+      "4 personal training sessions",
+      "Customized workout program",
+      "Diet and nutrition guidance",
+      "Access to strength training zone",
+      "Body composition analysis",
+      "Priority class booking"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pro Fitness Plan",
+    "price": 79,
+    "description": "Designed for athletes and advanced fitness lovers.",
+    "features": [
+      "All Advanced Plan features",
+      "Unlimited group classes",
+      "Personal trainer support",
+      "Recovery zone access",
+      "Sauna and steam room access",
+      "Performance tracking",
+      "Flexible gym hours"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Elite Plan",
+    "price": 99,
+    "description": "Complete fitness experience with premium facilities.",
+    "features": [
+      "All Pro Fitness Plan features",
+      "Unlimited personal training",
+      "24/7 gym access",
+      "Personalized diet plan",
+      "VIP locker room",
+      "Massage and recovery service",
+      "Priority trainer booking",
+      "Exclusive fitness workshops"
+    ]
+  }
+]
