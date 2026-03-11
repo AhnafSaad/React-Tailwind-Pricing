@@ -55,7 +55,7 @@ const [open, setOpen] = useState(true);
             <ul className="md:flex hidden">
                 {navs}
             </ul>
-            <button>Dropdown</button>
+            <button>Sign In</button>
 
                 <ul className={`md:hidden bg-amber-700 absolute duration-500  left-0 ${open? "top-8" : "-top-full"}`}>
       {navs}  

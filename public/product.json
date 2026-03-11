@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "totalProducts": 8,
+  "products": [
+    {
+      "id": 1,
+      "name": "Eco Smart Football",
+      "brand": "GreenPlay",
+      "price": 39.99,
+      "category": "Football",
+      "rating": 4.5,
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Recycled Running Shoes",
+      "brand": "EcoRunner",
+      "price": 89.99,
+      "category": "Shoes",
+      "rating": 4.7,
+      "stock": 12
+    },
+    {
+      "id": 3,
+      "name": "Solar Fitness Tracker",
+      "brand": "SunFit",
+      "price": 120.00,
+      "category": "Fitness Gadgets",
+      "rating": 4.4,
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "name": "Bamboo Yoga Mat",
+      "brand": "NatureFlex",
+      "price": 29.99,
+      "category": "Yoga",
+      "rating": 4.6,
+      "stock": 40
+    },
+    {
+      "id": 5,
+      "name": "Eco Friendly Cricket Bat",
+      "brand": "GreenStrike",
+      "price": 75.50,
+      "category": "Cricket",
+      "rating": 4.3,
+      "stock": 15
+    },
+    {
+      "id": 6,
+      "name": "Sustainable Gym Gloves",
+      "brand": "EcoGrip",
+      "price": 18.99,
+      "category": "Gym",
+      "rating": 4.2,
+      "stock": 50
+    },
+    {
+      "id": 7,
+      "name": "Organic Cotton Sports T-Shirt",
+      "brand": "PureSport",
+      "price": 24.99,
+      "category": "Clothing",
+      "rating": 4.1,
+      "stock": 60
+    },
+    {
+      "id": 8,
+      "name": "Smart Water Bottle",
+      "brand": "HydroTrack",
+      "price": 45.00,
+      "category": "Fitness Gadgets",
+      "rating": 4.5,
+      "stock": 20
+    }
+  ]
+}
